@@ -1,7 +1,7 @@
 検査設定の確からしさを評価するツールです。
   
 Result.ipynb  
-input.csvからt-SNEとRandom Forest、XGBoostの結果を出力したもの
+input.csvからt-SNEとRandom Forest、XGBoostの結果を出力したもの　　
 t-SNEの結果をoutput.csvとして出力　　
 
 input.csv  
