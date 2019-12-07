@@ -16,3 +16,6 @@ x t-SNEの各点のx座標
 y t-SNEの各点のy座標  
 それ以降の列はinput.csvに同じ  
 
+image_t-SNE.ipynb
+画像を入力としてt-SNEの結果を出力したもの
+画像認識等で画像の網羅性を確かめるために作成
